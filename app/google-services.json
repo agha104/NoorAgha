@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "856139106582",
+    "firebase_url": "https://noorsproject-cd097.firebaseio.com",
+    "project_id": "noorsproject-cd097",
+    "storage_bucket": "noorsproject-cd097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856139106582:android:15417bf1ac6cc667",
+        "android_client_info": {
+          "package_name": "com.noor.ag.noortasksmanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856139106582-trrq7icrcj51qeko98kkrn89s24b9ea2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.noor.ag.noortasksmanger",
+            "certificate_hash": "207C202ECE9FFC5136A38028C1532ACC3AB7EAF8"
+          }
+        },
+        {
+          "client_id": "856139106582-fcc9f82icnntndfvthbcdi2v5ffns61v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu4TQezPMixTvKRwn_VZyCCCB2JWm03c8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

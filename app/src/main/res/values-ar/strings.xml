@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoorTasksManger</string>
+    <string name="Login">دخول</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="Signup">تسجيل الدخول</string>
+    <string name="Name">الاسم</string>
+    <string name="Password">كلمة السر</string>
+    <string name="Phone">الهاتف</string>
+    <string name="Contacte">جهات الاتصال</string>
+    <string name="Email">البريد الالكتروني</string>
+    <string name="ForgetMyPassword">نسيت كلمة السر</string>
+    <string name="Location">موقع</string>
+    <string name="RePassword">اعادة كلمة السر</string>
+    <string name="Save">حفظ</string>
+    <string name="SignUp">تسجيل الدخول</string>
+    <string name="TaskText">نص</string>
+    <string name="rePassword">اعادة كلمة السر</string>
+    <string name="FastAdd">اضافة سريعة</string>
+    <string name="AddFast">اضافة سريعة</string>
+    <string name="Text">نص</string>
+    <string name="settings">اعدادات</string>
+    <string name="logout">خروج</string>
+</resources>
